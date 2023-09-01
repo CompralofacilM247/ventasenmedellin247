@@ -34,16 +34,18 @@ body{
 	width: 100%;
 	height: 1px;
 	background: #000000;
-	margin: 20px 0;
+	margin: 5px 0;
 	
 }
-.wrap > h3{
-	color: #000000;
+
+.wrap > h2{
+	color: #00721c;
 	font-weight: 900;
 	display: flex;
 	flex-direction: column;
 	text-align: center;
-	margin: 10px 0px;
+	margin: 5px 0px;
+	margin-top: 2%;
 }
 .store-wrapper{
 	display: flex;
